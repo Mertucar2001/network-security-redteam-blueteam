@@ -1,0 +1,12 @@
+# Private keys - never commit
+keys/*private*.pem
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs & captures (may contain sensitive traffic data)
+logs/
+captures/
